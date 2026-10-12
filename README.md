@@ -4,6 +4,14 @@ Official documentation and resource index for the KiwiPi 5 single-board computer
 
 [KiwiPi website](https://kiwipi.com/) · [Product page](https://kiwipi.com/product/kiwi-pi-5/) · [Documentation center](https://kiwipi.com/document-center/) · [Contact KiwiPi](https://kiwipi.com/contact-us/)
 
+[![KiwiPi 5 board](https://kiwipi.com/wp-content/uploads/2026/01/Kiwipi-5-4.webp)](https://kiwipi.com/product/kiwi-pi-5/)
+
+## Board layout
+
+[![KiwiPi 5 ports and expansion interfaces](https://kiwipi.com/wp-content/uploads/2026/01/kiwipi-5-rk3588s-ports-interface.webp)](https://kiwipi.com/product/kiwi-pi-5/)
+
+Images: [official KiwiPi 5 product page](https://kiwipi.com/product/kiwi-pi-5/). Check the hardware manual for connector details applicable to your board revision.
+
 ## Start here
 
 1. Identify your board model and hardware revision. KiwiPi 5, KiwiPi 5B and KiwiPi 5 Pro have separate resources.
