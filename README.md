@@ -4,7 +4,7 @@ Official documentation, downloads and developer resources for KiwiPi 5, a Rockch
 
 [KiwiPi website](https://kiwipi.com/) · [Product page](https://kiwipi.com/product/kiwi-pi-5/) · [Documentation center](https://kiwipi.com/document-center/) · [Contact KiwiPi](https://kiwipi.com/contact-us/)
 
-[![KiwiPi 5 board](https://kiwipi.com/wp-content/uploads/2026/01/Kiwipi-5-4.webp)](https://kiwipi.com/product/kiwi-pi-5/)
+[![KiwiPi 5 board](assets/kiwipi-5-board.webp)](https://kiwipi.com/product/kiwi-pi-5/)
 
 ## Technical configuration
 
@@ -29,7 +29,7 @@ Configuration options are listed on the [official product page](https://kiwipi.c
 
 ## Board layout
 
-[![KiwiPi 5 ports and expansion interfaces](https://kiwipi.com/wp-content/uploads/2026/01/kiwipi-5-rk3588s-ports-interface.webp)](https://kiwipi.com/product/kiwi-pi-5/)
+[![KiwiPi 5 ports and expansion interfaces](assets/kiwipi-5-interfaces.webp)](https://kiwipi.com/product/kiwi-pi-5/)
 
 Images: [official KiwiPi 5 product page](https://kiwipi.com/product/kiwi-pi-5/). Check the hardware manual for connector details applicable to your board revision.
 
