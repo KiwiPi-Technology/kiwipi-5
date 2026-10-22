@@ -46,6 +46,10 @@ Use the designated power input and data connector described in the manual for yo
 
 The official documentation center lists Android 15, Ubuntu 24.04 and Debian 12 for KiwiPi 5. Images remain in the official download storage; this repository does not contain OS binaries.
 
+## AI and local language models
+
+See [Running Qwen3.5 on the KiwiPi 5 NPU with RKLLM](https://kiwipi.com/blog/rkllm/) for setup instructions and benchmark results for the 0.8B and 2B W8A8 models on an 8 GB RK3588S board. The article covers the tested software configuration, inference speed, memory use and limitations.
+
 ## Documentation
 
 - [Downloads and developer resources](docs/downloads.md)
