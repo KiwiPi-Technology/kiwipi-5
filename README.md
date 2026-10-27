@@ -50,6 +50,8 @@ The official documentation center lists Android 15, Ubuntu 24.04 and Debian 12 f
 
 See [Running Qwen3.5 on the KiwiPi 5 NPU with RKLLM](https://kiwipi.com/blog/rkllm/) for setup instructions and benchmark results for the 0.8B and 2B W8A8 models on an 8 GB RK3588S board. The article covers the tested software configuration, inference speed, memory use and limitations.
 
+For the larger model, see [Qwen3.5-4B on KiwiPi 5: RK3588S NPU benchmarks and memory usage](https://kiwipi.com/blog/qwen3-5-4b/). This follow-up tests the W8A8 model on the same 8 GB board and discusses inference speed, memory requirements, response quality and practical limitations.
+
 ## Documentation
 
 - [Downloads and developer resources](docs/downloads.md)
